@@ -1,0 +1,12 @@
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\bin\Debug\netcoreapp3.1\ForumApi.Data.deps.json
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\bin\Debug\netcoreapp3.1\ForumApi.Data.dll
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\bin\Debug\netcoreapp3.1\ForumApi.Data.pdb
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\bin\Debug\netcoreapp3.1\ForumApi.Domain.dll
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\bin\Debug\netcoreapp3.1\ForumApi.Domain.pdb
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.csprojAssemblyReference.cache
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.AssemblyInfoInputs.cache
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.AssemblyInfo.cs
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.csproj.CopyComplete
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.dll
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Data\obj\Debug\netcoreapp3.1\ForumApi.Data.pdb

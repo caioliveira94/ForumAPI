@@ -1,0 +1,9 @@
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\bin\Debug\netcoreapp3.1\ForumApi.Infra.deps.json
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\bin\Debug\netcoreapp3.1\ForumApi.Infra.dll
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\bin\Debug\netcoreapp3.1\ForumApi.Infra.pdb
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\obj\Debug\netcoreapp3.1\ForumApi.Infra.csprojAssemblyReference.cache
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\obj\Debug\netcoreapp3.1\ForumApi.Infra.AssemblyInfoInputs.cache
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\obj\Debug\netcoreapp3.1\ForumApi.Infra.AssemblyInfo.cs
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\obj\Debug\netcoreapp3.1\ForumApi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\obj\Debug\netcoreapp3.1\ForumApi.Infra.dll
+C:\Users\caiou\Source\Repos\ForumAPI\ForumApi.Infra\obj\Debug\netcoreapp3.1\ForumApi.Infra.pdb
